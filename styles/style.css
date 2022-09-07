@@ -259,15 +259,14 @@
 .footer {
   margin: auto;
   min-height: 350px;
-  padding: 0;
+  padding: 60px 0 40px;
   background-color: #1f1f1f;
   display: flex;
 }
 
 .footer__columns {
   width: 90%;
-  height: 100hv;
-  margin: 60px auto 40px;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
 }
